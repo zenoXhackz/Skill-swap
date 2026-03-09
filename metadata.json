@@ -1,0 +1,5 @@
+{
+  "name": "SkillSwap",
+  "description": "A platform for users to exchange skills, featuring authentication, real-time messaging, and skill tagging.",
+  "requestFramePermissions": []
+}
